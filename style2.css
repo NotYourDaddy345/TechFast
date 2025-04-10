@@ -51,3 +51,7 @@ td, th {
 .center {
     text-align: center;
 }
+
+html {
+  scroll-behavior: smooth;
+}
