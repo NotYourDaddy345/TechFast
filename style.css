@@ -1,0 +1,30 @@
+body {
+    background-color: aliceblue;
+}
+
+.Welcome {
+    margin-top: 20%;
+    text-align: center;
+}
+
+html {
+    scroll-behavior: smooth; 
+}
+
+.yeahButton {
+    display: flex;
+    justify-content: center;
+}
+
+.yeahButtonSelf {
+    padding-left: 150px;
+    padding-right: 150px;
+    padding-top: 25px;
+    padding-bottom: 25px;
+    background-color: #63645c;
+}
+
+.bu770n {
+    text-decoration:dashed;
+    color:antiquewhite
+}
